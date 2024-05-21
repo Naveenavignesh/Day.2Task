@@ -1,1 +1,1 @@
-"Day.2 Task" 
+console.log("Day.2 Task"); 
